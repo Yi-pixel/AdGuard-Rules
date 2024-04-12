@@ -1,0 +1,35 @@
+||imgse.com^
+||file.timbremodel.com/config/
+
+sohu.com###right-side-bar
+sohu.com###main-header
+sohu.com###article-container > div.column.left:first-child
+sohu.com###float-btn > ul
+sohu.com###articleAllsee
+sohu.com###article-container > div.left.main:nth-child(2) > div.groom-read:last-child
+sohu.com###mpbox
+
+gitee.com##.site-wechat-guide
+gitee.com##div.gitee-stars-main-widget.pendan-widget
+
+bilibili.com##.bili-dyn-list__item:has(.dyn-blocked-mask__content)
+bilibili.com##.bili-dyn-list__item:has(.dyn-blocked-mask__content)
+bilibili.com##.animated-banner
+
+t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多/))
+t.bilibili.com##.bili-dyn-list__item:not(:has(.bili-dyn-more__btn))
+t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多/))
+
+api.ihint.me###wx-qr
+api.ihint.me###pay
+api.ihint.me##div.footer:nth-child(5)
+
+maoken.com###siderAd02 > img.lazy.loaded
+
+segmentfault.com###__next > div.mt-4.mb-5.question-container.container-xl:nth-child(6) > div.row > div.d-none.d-lg-block.col-2:first-child > div.sidebars-wrap
+segmentfault.com###__next > div.mt-4.mb-5.question-container.container-xl:nth-child(6) > div.row > div.mb-3.mb-md-0.col-lg-7.col-md-9.col-12:nth-child(2) > div.rounded.overflow-hidden.mb-4.carousel.slide:first-child
+segmentfault.com##.list-group-item:has(a[href*="harmonyos"])
+segmentfault.com##.carousel.slide
+segmentfault.com##.list-group-item:has(.q-item-title:contains(鸿蒙))
+
+tophub.today##.bc-cc:has(.cc-cd-lb > span:contains(/淘宝|抖音|微信|头条|哔哩哔哩|CSDN/))
