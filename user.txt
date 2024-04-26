@@ -1,4 +1,4 @@
-# Verison: 20240426002
+# Verison: 20240426003
 # Expires: around 1 day
 
 ||imgse.com^
@@ -22,7 +22,8 @@ bilibili.com##.animated-banner
 t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多/))
 t.bilibili.com##.bili-dyn-list__item:not(:has(.bili-dyn-more__btn))
 t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多/))
-t.bilibili.com##.reply-item:has(.reply-content-container:contains(/马桶|马老师/))
+
+t.bilibili.com,space.bilibili.com,bilibili.com##.bili-dyn-item__main:has(.bili-dyn-title__text:contains(独立摄影师))+.bili-dyn-item__panel .reply-item:has(.reply-content-container:contains(/马桶|马老师|z9|Z9/))
 
 api.ihint.me###wx-qr
 api.ihint.me###pay
