@@ -22,7 +22,7 @@ bilibili.com##.animated-banner
 t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多/))
 t.bilibili.com##.bili-dyn-list__item:not(:has(.bili-dyn-more__btn))
 t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多/))
-t.bilibili.com##.reply-content-container:contains(/马桶|马老师/)
+t.bilibili.com##.reply-item:has(.reply-content-container:contains(/马桶|马老师/))
 
 api.ihint.me###wx-qr
 api.ihint.me###pay
