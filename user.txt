@@ -19,6 +19,10 @@ bilibili.com##.bili-dyn-list__item:has(.dyn-blocked-mask__content)
 bilibili.com##.bili-dyn-list__item:has(.dyn-blocked-mask__content)
 bilibili.com##.animated-banner
 
+bilibili.com##.bili-video-card:has(.bili-video-card__info--ad)
+bilibili.com##.feed-card:has(.bili-video-card__info--ad)
+
+
 t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多/))
 t.bilibili.com##.bili-dyn-list__item:not(:has(.bili-dyn-more__btn))
 t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多/))
