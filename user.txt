@@ -18,6 +18,7 @@ gitee.com##div.gitee-stars-main-widget.pendan-widget
 bilibili.com##.bili-dyn-list__item:has(.dyn-blocked-mask__content)
 bilibili.com##.bili-dyn-list__item:has(.dyn-blocked-mask__content)
 bilibili.com##.animated-banner
+bilibili.com##.feed-card:has(>.bili-video-card__info--author:contains(伍伍))
 
 bilibili.com##.bili-video-card:has(.bili-video-card__info--ad)
 bilibili.com##.feed-card:has(.bili-video-card__info--ad)
