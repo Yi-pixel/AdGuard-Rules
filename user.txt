@@ -21,6 +21,8 @@ bilibili.com##.animated-banner
 
 bilibili.com##.bili-video-card:has(.bili-video-card__info--ad)
 bilibili.com##.feed-card:has(.bili-video-card__info--ad)
+# 视频播放页面右侧的广告用户
+bilibili.com##.video-page-special-card-small
 
 
 t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多|山东大樱桃/))
