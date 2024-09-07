@@ -26,9 +26,8 @@ bilibili.com##.feed-card:has(.bili-video-card__info--ad)
 bilibili.com##.video-page-special-card-small
 
 
-t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多|山东大樱桃/))
+t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多|山东大樱桃|肯德基/))
 t.bilibili.com##.bili-dyn-list__item:not(:has(.bili-dyn-more__btn))
-t.bilibili.com##.bili-dyn-list__item:has(.bili-dyn-content:contains(/淘宝搜|京东搜|双11|双十一|拼多多|山东大樱桃/))
 
 t.bilibili.com,space.bilibili.com,bilibili.com##.bili-dyn-item__main:has(.bili-dyn-title__text:contains(独立摄影师))+.bili-dyn-item__panel .reply-item:has(.reply-content-container:contains(/马桶|马老师|z9|Z9/))
 
