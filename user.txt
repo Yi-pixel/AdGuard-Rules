@@ -47,3 +47,5 @@ segmentfault.com##.list-group-item:has(.q-item-title:contains(鸿蒙))
 tophub.today##.bc-cc:has(.cc-cd-lb > span:contains(/淘宝|抖音|微信|头条|哔哩哔哩|CSDN/))
 
 learnku.com##.simple-topic:has(.user-avatar img[src*="/20473_"])
+learnku.com##.simple-topic:has(.user-avatar img[src*="/91170_"])
+
