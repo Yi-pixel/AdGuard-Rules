@@ -42,7 +42,10 @@ segmentfault.com###__next > div.mt-4.mb-5.question-container.container-xl:nth-ch
 segmentfault.com##.list-group-item:has(a[href*="harmonyos"])
 segmentfault.com##.list-group-item:has(a[href*="thinking"])
 segmentfault.com##.carousel.slide
+# 标题关键字
 segmentfault.com##.list-group-item:has(.q-item-title:contains(鸿蒙))
+# 标签关键字
+segmentfault.com##.list-group-item:has(.badge-tag:contains(/harmonyos|鸿蒙/))
 
 tophub.today##.bc-cc:has(.cc-cd-lb > span:contains(/淘宝|抖音|微信|头条|哔哩哔哩|CSDN/))
 
